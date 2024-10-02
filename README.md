@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marcello Diniz</h1>
 
 <h3 align="center">Graduando em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia de São Luís - IFMA.  </h3>
-<h3 align="left">Entre Fevereiro a Agosto de 2023 participei da Dupla Diplomação entre o IFMA e ISEP para
-participar do Mestrado de Engenharia da Informática no ramo de Engenharia de Software. </h3>
-<h3 align="left"> Conhecimento em Node.js pela Trilha Ignite da Rocketseat, com aprendizado em métodos
-HTTPs, Middlewares, utilizando TypeScript com padrões de código e princípios do SOLID e
-documentação de API usando o Swagger. Conhecimento em ReactJS pelas NLWs da Rocketseat. </h3>
-<h3 align="left">Entre setembro a dezembro 2021 fui estudante em mobilidade em Porto, Portugal, no Instituto Superior de Engenharia do Porto - Politécnico do Porto, participando em projeto sem aluno do MEIA - Mestrado em Engenharia de Inteligência Artificial na qual fiz parte de um projeto voltado para a Educação. </h3>
+<h3 align="left">Entre Fevereiro a Agosto de 2023 participei da Dupla Diplomação entre o IFMA e ISEP para participar do Mestrado de Engenharia da Informática no ramo de Engenharia de Software.
+</h3>
+<h3 align="left"> Conhecimento em ReactJS e Node.js pela Trilha Ignite e NLW da Rocketseat, com aprendizado em métodos HTTPs, Middlewares,
+  utilizando TypeScript com padrões de código e princípios do SOLID e documentação de API usando o Swagger,
+  Styled Components uma biblioteca CSS-in-JS,
+  React Router DOM, React Hook Form e testes com Vitest e Jest.
+ </h3>
+<h3 align="left">Entre setembro a dezembro 2021 fui estudante em mobilidade em Porto, Portugal, no Instituto Superior de Engenharia do Porto - Politécnico do Porto,
+  participando em projeto sem aluno do MEIA - Mestrado em Engenharia de Inteligência Artificial na qual fiz parte de um projeto voltado para a Educação. </h3>
 
 <div style="display: inline_block"><br>
  <h3 align="left">👨‍💻 Languages and Tools:</h3>

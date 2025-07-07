@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcello Diniz</h1>
 
-<h3 align="center">Graduando em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia de São Luís - IFMA.  </h3>
+<h3 align="center">Graduado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia de São Luís - IFMA.  </h3>
 <h3 align="left">Entre Fevereiro a Agosto de 2023 participei da Dupla Diplomação entre o IFMA e ISEP para participar do Mestrado de Engenharia da Informática no ramo de Engenharia de Software.
 </h3>
 <h3 align="left"> Conhecimento em ReactJS e Node.js pela Trilha Ignite e NLW da Rocketseat, com aprendizado em métodos HTTPs, Middlewares,
